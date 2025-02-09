@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Spensa",
-  description: "Minimalist spending tracker",
+  description: "minimalist spending tracker",
 };
 
 export default function RootLayout({ children }) {

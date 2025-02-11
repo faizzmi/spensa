@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div>
       This is Spensa
+      in requirement gathering phase
     </div>
   );
 }
